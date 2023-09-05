@@ -29,10 +29,14 @@
                 "icon": "faEnvelope"
             }
         ],
-        "about": {
-            "age": 24,
-            "Address": "Santacruz, Mumbai"
-        },
+        "about": [
+            {
+                "age": 24
+            },
+            {
+                "Address": "Santacruz, Mumbai"
+            }
+        ],
         "languages": [
             {
                 "language": "English",
@@ -78,6 +82,6 @@
             "Gulp.js",
             "Github, BitBucket"
         ],
-        "resumeUrl":"/resume.pdf"
+        "resumeUrl": "/resume.pdf"
     }
 }
