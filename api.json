@@ -8,11 +8,9 @@
         "bio": "Front-End Developer",
         "about": [
             {
-                "age": 24
-            },
-            {
+                "age": 24,
                 "Address": "Santacruz, Mumbai"
-            }
+            } 
         ],
         "languages": [
             {
