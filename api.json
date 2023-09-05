@@ -1,0 +1,83 @@
+{
+    "user": {
+        "name": {
+            "firstName": "Manasi",
+            "lastName": "Amberkar"
+        },
+        "profilePhoto": "https://example.com/profile-photo.jpg",
+        "location": "Santacruz, Mumbai",
+        "bio": "Front-End Developer",
+        "socialMedia": [
+            {
+                "name": "Github",
+                "url": "https://github.com/manasiamberkar",
+                "icon": "faGithub"
+            },
+            {
+                "name": "Linkedin",
+                "url": "https://www.linkedin.com/in/manasi-amberkar-88510a152/",
+                "icon": "faLinkedin"
+            },
+            {
+                "name": "Whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=9167454579",
+                "icon": "faSquareWhatsapp"
+            },
+            {
+                "name": "Email",
+                "url": "manasiamberkar.17@gmail.com",
+                "icon": "faEnvelope"
+            }
+        ],
+        "about": {
+            "age": 24,
+            "Address": "Santacruz, Mumbai"
+        },
+        "languages": [
+            {
+                "language": "English",
+                "proficiency": "Fluent"
+            },
+            {
+                "language": "Spanish",
+                "proficiency": "Intermediate"
+            },
+            {
+                "language": "French",
+                "proficiency": "Basic"
+            }
+        ],
+        "skills": [
+            {
+                "skill": "HTML",
+                "proficiency": "90%"
+            },
+            {
+                "skill": "CSS",
+                "proficiency": "90%"
+            },
+            {
+                "skill": "JavaScript/JQuery",
+                "proficiency": "60%"
+            },
+            {
+                "skill": "React.js",
+                "proficiency": "70%"
+            },
+            {
+                "skill": "Next.js",
+                "proficiency": "50%"
+            },
+            {
+                "skill": "Typescript",
+                "proficiency": "60%"
+            }
+        ],
+        "Extra Skills": [
+            "SASS, SCSS, LESS, Talwind CSS, Material UI, Bootstrap",
+            "Gulp.js",
+            "Github, BitBucket"
+        ],
+        "resumeUrl":"/resume.pdf"
+    }
+}
