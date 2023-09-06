@@ -18,12 +18,12 @@
                 "proficiency": "Fluent"
             },
             {
-                "language": "Spanish",
-                "proficiency": "Intermediate"
+                "language": "Marathi",
+                "proficiency": "Fluent"
             },
             {
-                "language": "French",
-                "proficiency": "Basic"
+                "language": "Hindi",
+                "proficiency": "Fluent"
             }
         ],
         "skills": [
@@ -55,7 +55,7 @@
         "Extra Skills": [
             "SASS, SCSS, LESS, Talwind CSS, Material UI, Bootstrap",
             "Gulp.js",
-            "Github, BitBucket"
+            "Github, Bitbucket"
         ]
     }
 }
