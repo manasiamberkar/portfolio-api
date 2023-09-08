@@ -56,6 +56,20 @@
             "SASS, SCSS, LESS, Talwind CSS, Material UI, Bootstrap",
             "Gulp.js",
             "Github, Bitbucket"
-        ]
+        ],
+        "education": [
+    {
+      "collageName": "Vidyalankar Institue of Technology",
+      "degree": "Bachelor of Engineering",
+      "duration": "08/2017 - 08/2020",
+      "stream": "Information Technology"
+    },
+    {
+      "collageName": "Government Polytechnic, Mumbai",
+      "degree": "Diploma",
+      "duration": "10/2014 - 07/2017",
+      "stream": "Information Technology"
+    }
+  ],
     }
 }
